@@ -1,9 +1,9 @@
 class Promptedit < Formula
   desc "Lightweight prompt editor for Claude Code"
   homepage "https://github.com/mnapoli/PromptEdit"
-  url "https://github.com/mnapoli/PromptEdit/releases/download/v0.3.3/PromptEdit_0.3.3_aarch64.dmg"
-  sha256 "c4219b99102aec449eb1befa774ca6f9250796fce3b18841b3b2a2334183be24"
-  version "0.3.3"
+  url "https://github.com/mnapoli/PromptEdit/releases/download/v0.4.1/PromptEdit_0.4.1_aarch64.dmg"
+  sha256 "0eff756ca2e7a3ace18ec5e09bd3363dd81db589f1c4580e1a649f176109b2f4"
+  version "0.4.1"
 
   depends_on macos: :ventura
 
